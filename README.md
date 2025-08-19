@@ -9,7 +9,7 @@ Thales Cotrim
 
 **Dev Team**  
 - Samuel Parra  
-- João Corsino  
+- Kaua Mangini  
 - Jaqueline Barbosa  
 - Lucas Alves
 
