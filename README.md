@@ -42,19 +42,20 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 - **Filtros avançados** para gestão eficiente
 
 # O Planejamento
-## Sprint Planning 
+## Sprints 
 
-### Sprint Planning - Arquitetura e Planejamento
-**Duração:** 03/04/2025 - 30/05/2025
+### Sprint 1
+**Duração:** 19/08/2025 - 26/08/2025 <br>
+**entregável: ** Criação do repositório e elaboração do readme
 
-**Participantes:** Dev Team, Product Owner e Scrum Master  
-**Entregáveis:**
-- Definição da arquitetura
-- Diagrama de Caso de uso, Classe, Sequência e Implementação
-- Modelagem de Banco de Dados
-- Arquitetura da informação e fluxos de usuário
-- Wireframes e prototipos de média fidelidade
-- Prototipo de alta fidelidade
+### Sprint 2
+**Duração:** 02/09/2025 - 09/09/2025 <br>
+**entregável: ** Diagramas de casos de uso
+
+### Sprint 3
+**Duração:** 09/09/2025 - 16/09/2025 <br>
+**entregável: ** Diagramas de classes de implantação
+
 
 # 🔍 Navegação
 
