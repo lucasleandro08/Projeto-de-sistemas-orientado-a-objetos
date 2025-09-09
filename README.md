@@ -42,19 +42,17 @@ A solução proposta é voltada para empresas que necessitam de um sistema **con
 - **Filtros avançados** para gestão eficiente
 
 # O Planejamento
-## Sprints 
+##  Cronograma de Sprints <a id="sprint"></a>
 
-### Sprint 1
-**Duração:** 19/08/2025 - 26/08/2025 <br>
-**entregável: ** Criação do repositório e elaboração do readme
+| Sprint      | Período       | Documentação                                               |
+| ----------- | :-----------: | ---------------------------------------------------------- |
+| 🔖 SPRINT 1 | 19/08 - 26/08 | [Sprint 1](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/1) |
+| 🔖 SPRINT 2 | 27/08 - 02/09 | [Sprint 2](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/2) |
+| 🔖 SPRINT 3 | 03/09 - 09/09 | [Sprint 3](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/3) |
+| 🔖 SPRINT 4 | 10/09 - 16/09 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/4) |
 
-### Sprint 2
-**Duração:** 02/09/2025 - 09/09/2025 <br>
-**entregável: ** Diagramas de casos de uso
+---
 
-### Sprint 3
-**Duração:** 09/09/2025 - 16/09/2025 <br>
-**entregável: ** Diagramas de classes de implantação
 
 
 # 🔍 Navegação
