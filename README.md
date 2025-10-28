@@ -1,69 +1,142 @@
-# 📘 Sistema Inteligente de Gestão de Chamados de Suporte
+# Sistema Inteligente de Gestão de Chamados de Suporte
 
-## 🧾 Título do Projeto
-**Sistema Inteligente de Gestão de Chamados de Suporte**
+## Sistec
 
-## 🎯 Descrição do Desafio
-Desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, que otimize processos, reduza custos e melhore a experiência do usuário.
+---
 
-## 🥇 Solução
-O sistema desenvolvido permitirá que os funcionários abram chamados de suporte de forma eficiente e organizada. Após serem categorizados e analisados pela nossa IA, esses chamados serão direcionados aos técnicos da empresa, para que sejam atendidos e resolvidos com agilidade.
-O objetivo é simplificar e acelerar a comunicação entre os colaboradores e a equipe de T.I. da empresa contratante.
+| [O Projeto](#projeto) | [Visão Geral](#visao)  | [Definition of Ready](#dor)  | [Definition of Done](#dod) | [Documentação](#documentacao) | [Cronograma de Sprints](#sprint) | [Tecnologias](#tecnologias) | [Equipe](#equipe) |
 
-## 📦 Backlog do Produto
-- [Product Backlog](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4)
+---
 
-## 🏆 DoD - Definition of Done
-- Manual de Usuário
-- Manual da Aplicação
-- Protótipo do Figma
+> **Status do Projeto:** Em andamento 🛠️  
+> **Product Backlog:** [Notion](https://tar-stay-ec9.notion.site/Product-Backlog-1c25872c0a9281afa45cee6072936a2c?pvs=4) 📄  
+> **Sprint Backlog:** [Link](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md) 📄  
+> **Documentação Essencial:** [Notion](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=) 📚
 
-## Tecnologias utilizadas
+---
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+## 📁 O Projeto <a id="projeto"></a>
 
-## 📋 Escala de sprints
-| Sprint   | Datas           | Documentação |
-|----------|-----------------|--------------|
-| 🔖 SPRINT 1 | 19/08 - 26/08 | [Sprint 1](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/1) |
-| 🔖 SPRINT 2 | 27/08 - 02/09 | [Sprint 2](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/2) |
-| 🔖 SPRINT 3 | 03/09 - 09/09 | [Sprint 3](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/3) |
-| 🔖 SPRINT 4 | 10/09 - 16/09 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/4) |
-| 🔖 SPRINT 5 | 17/09 - 23/09 | [Sprint 5](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/5) |
-| 🔖 SPRINT 6 | 24/09 - 31/09 | [Sprint 6](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/6) |
-| 🔖 SPRINT 7 | 01/10 - 07/10 | [Sprint 7](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/7) |
-| 🔖 SPRINT 8 | 08/09 - 14/10 | [Sprint 8](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/8) |
+Este projeto tem como objetivo desenvolver uma **plataforma integrada e automatizada** para gerenciamento de chamados de suporte técnico, combinando **controle de acesso, automação de fluxos de trabalho e inteligência artificial** para:
 
-## 🔗 Link para Documentação da Sprint
-- [Sprint Backlog](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md)
+- Agilizar a resolução de problemas
+- Reduzir custos operacionais
+- Melhorar a experiência do usuário
 
-## 📚 Estrutura de Documentação
+---
 
-- [Ciclo de Vida do Chamado](https://tar-stay-ec9.notion.site/Ciclo-de-Vida-de-um-Chamado-1c25872c0a9281bcb642ee620d554c95?pvs=)
-- [Requisitos Funcionais](https://tar-stay-ec9.notion.site/Levantamento-de-Requisitos-Funcionais-PIM-III-1c25872c0a9281399f40f5e513e43048?pvs=4)
-- [Casos de Uso](https://tar-stay-ec9.notion.site/Diagrama-de-Casos-de-Uso-1c25872c0a9281978842fd6060bd9144?pvs=4)
+## 🧭 Visão Geral <a id="visao"></a>
 
-  ## 👨‍💻 A Equipe
+A solução proposta é voltada para empresas que necessitam de um sistema **confiável, escalável e eficiente** para lidar com demandas de suporte interno ou externo. Com uma arquitetura modular, o sistema oferece:
 
-| Função        | Nome              | GitHub                                    |
-|---------------|-------------------|-------------------------------------------|
-| 👑 Product Owner | Júlio Vasconcelos | [JulioPVasconcelos](https://github.com/JulioPVasconcelos) |
-| 🧭 Scrum Master  | Thales Cotrim     | [T4lesbyte](https://github.com/T4lesbyte) |
-| 💻 Dev Team      | Samuel Parra      | [samuel0021](https://github.com/samuel0021) |
-| 💻 Dev Team      | Jaqueline Barbosa | [JaqueRBarbosa](https://github.com/JaqueRBarbosa) |
-| 💻 Dev Team      | Lucas Alves       | [lucasleandro08](https://github.com/lucasleandro08) |
-| 💻 Dev Team      | Kauã Bonafé       |  |
+#### Gestão de Acessos e Processos
+- **Controle de usuários** com 4 níveis de acesso (Admin, Gerente, Analista e Usuário)
+- **Autenticação segura** com recuperação de senha
+- **Formulário inteligente** de chamados com priorização automática
 
-## 💻 Manual de instalação
+#### Automação e Inteligência
+- **Triagem por IA** para direcionamento inteligente
+- **Agentes especializados** para respostas automáticas
+- **Fluxo adaptativo** (automatizado ou humano)
 
-### 🔧 Requisitos
+#### Monitoramento e Análise
+- **Dashboards interativos** em tempo real
+- **Relatórios estratégicos** de desempenho e SLA
+- **Filtros avançados** para gestão eficiente
 
-- Git ([Download](https://git-scm.com/downloads))
-- Supabase ([Acesso](https://supabase.com/database))
-- VScode ([Download](https://code.visualstudio.com/download))
+---
 
+## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
+ 
+- User Story descrita com clareza e objetivo definido
+- Critérios de aceitação disponíveis
+- Subtarefas devidamente mapeadas
+- Design disponível no Figma
+- Modelagem de dados realizada
+- Rotas atualizado
+- Referências e documentação no Notion
+
+---
+
+## 🏆 DoD - Definition of Done <a id="dod"></a>
+ 
+- Código implementado conforme critérios de aceitação
+- Testes unitários realizados com sucesso
+- Pull Request revisado e aprovado por outro membro
+- Documentação atualizada (README e Notion)
+- Funcionalidade integrada e testada na interface
+- Validação com o Product Owner durante a Review
+
+---
+
+## 📅 Cronograma de Sprints <a id="sprint"></a>
+
+| Sprint      | Período       | Documentação                                               |
+| ----------- | :-----------: | ---------------------------------------------------------- |
+| 🔖 SPRINT 1 | 19/08 - 31/08 | [Sprint 1](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/1) |
+| 🔖 SPRINT 2 | 01/09 - 13/09 | [Sprint 2](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/2) |
+| 🔖 SPRINT 3 | 14/09 - 26/09 | [Sprint 3](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/3) |
+| 🔖 SPRINT 4 | 27/09 - 09/10 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/4) |
+| 🔖 SPRINT 5 | 10/10 - 22/10 | [Sprint 5](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/5) |
+| 🔖 SPRINT 6 | 23/10 - 02/11 | [Sprint 6](https://github.com/lucasleandro08/Projeto-de-Sistemas-Orientado-a-Objetos/issues/6) |
+
+---
+
+## 💻 Tecnologias <a id="tecnologias"></a>
+ 
+ <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+ ## 📚 Documentação <a id="documentacao"></a>
+
+### Pasta de Documentação
+
+| Documento | Descrição | Link |
+|-----------|-----------|------|
+| 📖 Manual do Usuário | Guia de uso do sistema | [Ver Manual](https://www.canva.com/design/DAGpV_CfDQ0/T2lIvDW_lV__wz6qthQFPA/view?utm_content=DAGpV_CfDQ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hab6829a78a) |
+| 🎨 Protótipos | Design no Figma | [Ver Figma](https://www.figma.com/design/FxSEOjV8WJS9jdf4EU5M33/Sistec-Admin?node-id=0-1&t=AQHPzJlVllva52uO-1) |
+
+## 🎓 Equipe <a id="equipe"></a>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Membro</th>
+      <th>Função</th>
+      <th>Github</th>
+    </tr>
+    <tr>
+      <td>Julio Vasconcelos</td>
+      <td>Product Owner</td>
+      <td><a href="https://github.com/JulioPVasconcelos"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"</a>
+    </td>
+    </tr>
+    <tr>
+      <td>Thales Pugliesi</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/T4lesbyte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Jaquline Barbosa</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/JaqueRBarbosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+     </tr>
+    <tr>
+      <td>Kauã Mangini</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https:"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+     </tr>
+    <tr>
+      <td>Lucas Alves</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/lucasleandro08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+      </td>
+    </tr>
+    <tr>
+      <td>Samuel Parra</td>
+      <td>Desenvolvedor</td>
+      <td><a href="https://github.com/samuel0021"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+     </tr>
+  </table>
+</div>
