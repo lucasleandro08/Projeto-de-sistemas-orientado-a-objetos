@@ -34,10 +34,10 @@ O objetivo é simplificar e acelerar a comunicação entre os colaboradores e a 
 | 🔖 SPRINT 2 | 27/08 - 02/09 | [Sprint 2](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/2) |
 | 🔖 SPRINT 3 | 03/09 - 09/09 | [Sprint 3](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/3) |
 | 🔖 SPRINT 4 | 10/09 - 16/09 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/4) |
-| 🔖 SPRINT 5 | 17/09 - 23/09 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/5) |
-| 🔖 SPRINT 6 | 24/09 - 31/09 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/6) |
-| 🔖 SPRINT 7 | 01/10 - 07/10 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/7) |
-| 🔖 SPRINT 8 | 08/09 - 14/10 | [Sprint 4](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/8) |
+| 🔖 SPRINT 5 | 17/09 - 23/09 | [Sprint 5](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/5) |
+| 🔖 SPRINT 6 | 24/09 - 31/09 | [Sprint 6](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/6) |
+| 🔖 SPRINT 7 | 01/10 - 07/10 | [Sprint 7](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/7) |
+| 🔖 SPRINT 8 | 08/09 - 14/10 | [Sprint 8](https://github.com/lucasleandro08/Projeto-de-sistemas-orientado-a-objetos/issues/8) |
 
 ## 🔗 Link para Documentação da Sprint
 - [Sprint Backlog](https://github.com/T4lesbyte/Sistec/blob/main/Sprint-Backlog.md)
